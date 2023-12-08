@@ -9,7 +9,7 @@
 
 ## Education
 
-🎓 **Electrotechnical School Zemun, Zemun** (Sep 2019 — graduated Jun 2023)
+🎓 **Electrotechnical School Zemun, Zemun** (Sep 2019 — graduated Jun 2023)\
 🎓 **Faculty of Computing, Belgrade** (Oct 2023 — expected graduation in 2026)\
 **Computer Science**
 
